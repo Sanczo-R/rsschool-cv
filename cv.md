@@ -5,7 +5,17 @@
 3. GitHub: https://github.com/Sanczo-R
 4. Discord:  Sanczo#3245
 ---
+### About myself:
 
+Assiduous and hardworking. Ready to work in a team.
+I want to study in the field of programming (in particular, Front-end development).
+In my spare time I do self-study.
+
+---
+#### Education:
+Yanka Kupala State University of Grodno
+ (https://en.grsu.by/en/). Specialty: physics (scientific and pedagogical activity).
+ 
 ---
 ### Skills (Basic):
 * *HTML*
